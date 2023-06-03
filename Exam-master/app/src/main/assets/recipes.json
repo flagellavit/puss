@@ -1,0 +1,110 @@
+{
+  "recipes": [
+{
+  "title": "Pelmeni",
+  "image": "https://cdn.momsdish.com/wp-content/uploads/2021/08/DSC_2700-scaled.jpg",
+  "url": "https://momsdish.com/recipe/76/pelmeni",
+  "description": "Cool looking dumplings",
+  "servings": 1,
+  "kcal": "Balanced",
+  "ingredientsLines": [
+    "A lot of pelmeni",
+    "Pepper",
+    "Salt",
+    "Butter",
+    "Something else"
+  ]
+},
+    {
+      "title": "Pasta Carbonara",
+      "image": "https://eda.ru/img/eda/c620x415/s1.eda.ru/StaticContent/Photos/150525210126/150601174518/p_O.jpg.webp",
+      "url": "https://eda.ru/recepty/pasta-picca/pasta-karbonara-pasta-alla-carbonara-50865",
+      "description": "This cheesy pasta dish is an Italian favourite and with the right technique, you can make it perfect every time",
+      "servings": 4,
+      "kcal": "Low-Sodium",
+      "ingredientsLines": [
+        "50g pecorino cheese",
+        "50g parmesan",
+        "3 large eggs",
+        "350g spaghetti",
+        "2 plump garlic cloves, peeled and left whole",
+        "50g unsalted butter"
+      ]
+    },
+    {
+      "title": "Pizza Margherita",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-51643_11-2f4a2cc.jpg?quality=90&webp=true&resize=300,272",
+      "url": "https://momsdish.com/recipe/76/pelmeni",
+      "description": "Even a novice cook can master the art of pizza with our simple step-by-step guide. Bellissimo!",
+      "servings": 3,
+      "kcal": "Low-Carb",
+      "ingredientsLines": [
+        "300g strong bread flour",
+        "1 tsp instant yeast (from a sachet or a tub)",
+        "1 tsp salt",
+        "1 tbsp olive oil, plus extra for drizzling",
+        "For the tomato sauce",
+        "100ml passata",
+        "handful fresh basil or 1 tsp dried",
+        "1 garlic clove, crushed",
+        "For the topping",
+        "125g ball mozzarella, sliced",
+        "handful grated or shaved parmesan (or vegetarian alternative)",
+        "handful of cherry tomatoes, halved"
+      ]
+    },
+    {
+      "title": "Simple Green Salad",
+      "image": "https://www.eatingwell.com/thmb/H8ldmJ7nz2tNtBsYHNYLTpGbRKc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/kale-and-quinoa-salad-with-lemon-dressing-50e7ff379b924df8ab3dd665e2efefb5.jpg",
+      "url": "https://www.loveandlemons.com/green-salad-recipe/",
+      "description": "We all need a good green salad recipe in our back pocket…",
+      "servings": 1,
+      "kcal": "Vegetarian",
+      "ingredientsLines": [
+        "lemon vinaigrette.",
+        "cheese",
+        "nuts",
+        "lettuce",
+        "more lettuce"
+      ]
+    },
+    {
+      "title": "Potato & corn salad",
+      "image": "https://img.taste.com.au/IE2x9m6V/w643-h428-cfill-q90/taste/2016/11/sweet-potato-and-corn-salad-110251-1.jpeg",
+      "url": "https://www.taste.com.au/recipes/sweet-potato-corn-salad-2/RNg4bj0V?r=recipes/6e3rxl7a",
+      "description": "Whip up this salad as a great side when you're having friends over – it goes perfectly with any type of barbecued meat",
+      "servings": 5,
+      "kcal": "Medium-Carb",
+      "ingredientsLines": [
+        "600g potatoes",
+        "2 sweet corn cobs",
+        "3 limes",
+        "1 red onion",
+        "1/3 cup fresh coriander",
+        "2 fresh red birdseye chillies"
+      ]
+    },
+    {
+      "title": "Miso tofu soup",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/2/2021/10/Olive_Everyday_Healthy_Creamy_Miso_Tofu_Soup_with_a_Jammy_Egg_DW-e01dc34.jpg?quality=90&webp=true&crop=7px,3145px,4567px,1965px&resize=300,272",
+      "url": "https://www.olivemagazine.com/recipes/vegetarian/miso-tofu-soup/",
+      "description": "Silken tofu helps make this miso-rich noodle broth smooth and creamy without the addition of dairy",
+      "servings": 2,
+      "kcal": "Low-Fat",
+      "ingredientsLines": [
+        "4 eggs (we used Clarence Court Burford Browns)",
+        "600ml vegetable stock",
+        "35g white miso paste",
+        "1 tbsp rice wine vinegar",
+        "2 tsp low-salt soy sauce",
+        "350g block silken tofu, drained",
+        "320g sugar snap peas or edamame",
+        "320g spinach",
+        "100g wholegrain rice vermicelli",
+        "100g spring onions, trimmed and finely chopped",
+        "4 tsp chinese chilli oil"
+      ]
+    }
+  ]
+}
+
